@@ -14,13 +14,13 @@ A high-performance Electronic Design Automation (EDA) tool built in Python. It s
 - **Universal Gates Synthesizer**: Converts the minimized boolean logic into NAND-only and NOR-only gate implementations.
 - **Modern Dark UI**: Features a sleek, responsive, and native-feeling dark mode interface utilizing the Sun Valley (`sv_ttk`) theme.
 
-## Screenshots & Demo
+## Screenshots 
 
 - **Main UI (Truth Table + K-Map)**: `UI.png`
 - **Results (SOP/POS for F and F′)**: `Results.png`
 - **Boolean Algebra Derivations**: `SimplificationSteps.png`
 
-*(See the included `Demo.mp4` for a full video walkthrough of the application!)*
+
 
 ## Project Structure
 
