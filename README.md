@@ -1,4 +1,4 @@
-# Advanced Logic Minimizer & EDA Tool
+# Advanced-K-Map-Solver & EDA Tool
 
 A high-performance Electronic Design Automation (EDA) tool built in Python. It simplifies Boolean expressions using the **Quine–McCluskey algorithm** (tabular method) and provides deep insights into digital logic design through interactive K-Maps, Boolean algebra derivations, CMOS schematics, and universal gate synthesis.
 
