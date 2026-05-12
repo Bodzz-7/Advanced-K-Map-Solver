@@ -19,7 +19,7 @@ A high-performance Electronic Design Automation (EDA) tool built in Python. It s
 - **Main UI (Truth Table + K-Map)**: `UI.png`
 - **Results (SOP/POS for F and F′)**: `Results.png`
 - **Boolean Algebra Derivations**: `SimplificationSteps.png`
-- **CMOS PUN & PDN Networks Implementation**: `Cmos_Circuit_Example.png`
+![CMOS Circuit Example](Cmos_Circuit_Example.png)
 - **Implementation Using Universal Gates**" `Universal Gates.png`
 
 
